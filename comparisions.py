@@ -5,7 +5,7 @@ print( type(A))
 print( type(B))
 print(A == B)
 
-#  comparision operator: >, <, >=, <=,  ==, !=
+#  comparision operator: >, <, >=, <=,  ==, !=  used to compare pieces of information to make conditions
 print(1>2)
 print(1>=2)
 print(1<2)
