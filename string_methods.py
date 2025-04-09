@@ -34,7 +34,7 @@ print("New y: " + y)
 
 #  .islower() -> check if it's in lowercase
 print(y)
-print( y.islower())
+print(y.islower())
 
 #  .isupper() -> check if it's in uppercase
 y = "This is in uppercase"
@@ -83,6 +83,7 @@ print(x.find("dkfsjdlfksjd"))
 #  .strip()  ->  remove the strings 
 y = "00000happybirthday00000"
 print(y.strip("0"))
+
 
 #  remove on left side
 print(y.lstrip("0"))
